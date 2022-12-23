@@ -1,0 +1,5 @@
+var idStartsWithLowerCase: int;
+var IdStartWithUpperCase: int;
+var _id_starts_with_underline: int;
+var idwithnumber1234: int;
+var 3idCantStartWithNumber: int;

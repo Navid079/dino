@@ -1,0 +1,8 @@
+# With use keyword, you can import other packages to your code
+use io;
+
+# Program starts from main function. Dino has implicit typing. But you can explicitly type them, too!
+func main:void(){
+  # io package is standard library for file system and stdio
+  io.print("Hello, world!"); 3a
+}

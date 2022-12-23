@@ -1,0 +1,5 @@
+func x: int (a: func<int>, b: int) {
+  return a(b);
+}
+
+x(f(t) => t^3, 3);

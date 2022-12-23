@@ -1,0 +1,21 @@
+use io;
+use strtools;
+
+func pow: int (
+  a: int,
+  b: int
+) {
+  return a^b;
+}
+
+func mult_thousand: int (
+  a: int,
+) {
+  return a * 10E3;
+}
+
+func main() {
+  io.print(strtools.castint(mult_thousand(3));
+
+  return;
+}

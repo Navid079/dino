@@ -1,0 +1,11 @@
+var a: char;
+var b: int;
+var c: string;
+var d: float;
+var e: short;
+var g: long;
+var h: double;
+var i: byte;
+var j: bool;
+var k: bit;
+var l: void;

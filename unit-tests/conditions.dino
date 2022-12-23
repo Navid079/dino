@@ -1,0 +1,10 @@
+var x = 4;
+var y = 3;
+
+if (x > y) {
+  doSomething(x);
+} elif (x < y) {
+  doSomething(y);
+} else {
+  equal();
+}
